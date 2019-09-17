@@ -1,0 +1,16 @@
+package TestClass;
+
+public class Test {
+	private String content;
+	private String desc;
+	
+	public Test(String content) {
+		this.content = content;
+	}
+	
+	public static void main(String[] args) {
+		Test testobj = new Test("ciao");
+		System.out.println(testobj.getContent());
+	}
+	
+}

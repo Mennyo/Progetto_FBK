@@ -1,0 +1,7 @@
+1562752298643	Encapsulate field 'quantity'
+1562752302884	Encapsulate field 'userId'
+1562752347572	Rename type 'Product'
+1562758205346	Encapsulate field 'count'
+1562759567756	Encapsulate field 'productId'
+1562763716857	Move compilation unit
+1562763726081	Delete element

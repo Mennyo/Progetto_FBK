@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;it.smartcommunitylab.test.repository.PersonaRepositoryImpl.java&apos; to &apos;PersonaRepositoryCustomImpl.java&apos;&#x0D;&#x0A;- Original project: &apos;ApiDB&apos;&#x0D;&#x0A;- Original element: &apos;it.smartcommunitylab.test.repository.PersonaRepositoryImpl.java&apos;&#x0D;&#x0A;- Renamed element: &apos;it.smartcommunitylab.test.repository.PersonaRepositoryCustomImpl.java&apos;" description="Rename compilation unit &apos;PersonaRepositoryImpl.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;it.smartcommunitylab.test.repository{PersonaRepositoryImpl.java" name="PersonaRepositoryCustomImpl.java" references="false" stamp="1562571211053" version="1.0"/>
+</session>

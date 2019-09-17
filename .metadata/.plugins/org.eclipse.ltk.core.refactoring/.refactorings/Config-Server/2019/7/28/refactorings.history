@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Config-Server/localconfig/echoservice-prod.properties&apos; to &apos;echoservice.properties&apos;" description="Rename resource &apos;echoservice-prod.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="localconfig/echoservice-prod.properties" name="echoservice.properties" stamp="1562675624377" updateReferences="true"/>
+</session>
